@@ -267,7 +267,7 @@ footer nav ul li a:hover {
 }
 footer .copyright {
   font-weight: 600;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 1.2em;
   color: #353535;
   display: block;
@@ -1216,7 +1216,7 @@ td {
   width: 70%;
 }
 .menu-left.slide-in .content .container-foot-mobile footer .copyright {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 form {
