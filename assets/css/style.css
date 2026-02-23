@@ -277,7 +277,7 @@ footer .copyright {
 }
 @media (min-width: 992px) {
   footer .copyright {
-    font-size: 16px;
+    font-size: 13px;
   }
 }
 footer .copyright #yearDisplay {
@@ -305,6 +305,7 @@ footer .copyright #yearDisplay {
   cursor: pointer;
 }
 .burger-container span {
+  font-weight: 500;
   margin-top: -5px;
   color: #ffffe3;
   font-size: 19px;
